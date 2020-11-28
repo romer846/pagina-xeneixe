@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+title {
+    background-color: darkblue;
+    color: white;
+}
+header {
+    background-color: darkblue;
+    color: white;
+}
+
+footer{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+.nav-link{
+    color: blue;
+}
